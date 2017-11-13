@@ -1,0 +1,43 @@
+MAP TESTER!!
+
+--- Test 0 ----
+Is Empty? true
+Size = 0
+
+Is Empty? false
+Size = 5
+< Nate, A >
+< George, C >
+< Karl, F >
+< John, B >
+< Will, B >
+
+--- Test 1 ----
+Is Empty? true
+Size = 0
+
+Is Empty? false
+Size = 8
+< Fry, Human >
+< Leela, Mutant >
+< Hermes, Human >
+< Qubert, Clone >
+< Nibbler, Nibblonian >
+< Bender, Robot >
+< Amy, Human >
+< Kiff, Amphibiosan >
+
+Testing remove
+Removing Humans
+< Leela, Mutant >
+< Qubert, Clone >
+< Nibbler, Nibblonian >
+< Bender, Robot >
+< Kiff, Amphibiosan >
+
+Testing Lookup
+Leela? Mutant
+Bender? Robot
+Qubert? Clone
+Nixon? ERROR : Key Not Found!!
+

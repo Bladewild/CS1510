@@ -1,0 +1,11 @@
+In NewNewYork, Dr. Zoidberg can reach:
+museum
+zoo
+
+In Miami, Dr. Zoidberg can reach:
+nothing :-(
+
+In Rolla, Dr. Zoidberg can reach:
+lake
+forest
+river

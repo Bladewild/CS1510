@@ -1,0 +1,16 @@
+#0, 14: BYOYTMYBKKBKBY
+#1, 6: BBYOBB
+#2, 7: OTOTYOM
+#3, 4: BTTB
+#4, 8: MYYBYYYO
+
+#0, 14: BYOYTMBB 
+#1, 6: BBYOYBKKBKBY    
+#2, 7: KTPOTOT
+#3, 8: MYYBYYYO
+#4, 8: MYYBYYYO
+
+ERROR! trim: invalid parameters.
+ERROR! append: invalid parameters.
+ERROR! slice: invalid parameters.
+
